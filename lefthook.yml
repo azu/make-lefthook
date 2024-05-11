@@ -5,5 +5,5 @@ pre-commit:
       env:
         PATH: ./node_modules/.bin:$PATH
       glob: "*.{js,jsx,ts,tsx}"
-      run: prettier --write {staged_files}
+      run: npx -y prettier --write {staged_files}
       stage_fixed: true
