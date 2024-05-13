@@ -1,6 +1,6 @@
 BIN_DIR      := ./bin
 
-LEFTHOOK_VERSION           := 1.6.10
+LEFTHOOK_VERSION           := 1.6.11
 
 LEFTHOOK           := $(abspath $(BIN_DIR)/lefthook-$(LEFTHOOK_VERSION))
 .PHONY: setup
