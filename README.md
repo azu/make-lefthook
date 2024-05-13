@@ -1,4 +1,10 @@
-# Lefthook modify .githooks
+# Fixed in https://github.com/evilmartians/lefthook/releases/tag/v1.6.11
+
+This behavior is fixed in https://github.com/evilmartians/lefthook/releases/tag/v1.6.11
+
+- https://github.com/evilmartians/lefthook/discussions/715#discussioncomment-9415756
+
+## Lefthook modify .githooks
 
 ## Usage
 
